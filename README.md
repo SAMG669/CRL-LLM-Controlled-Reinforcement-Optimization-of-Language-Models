@@ -1,0 +1,2 @@
+# CRL-LLM-Controlled-Reinforcement-Optimization-of-Language-Models
+CRL-LLM is a controlled reinforcement learning framework that compares large language models such as Qwen and LLaMA under identical PPO training conditions. Using shared prompts, rewards functions and hyperparameters, it evaluates model adaptability, optimization dynamics, and performance behavior within a consistent, GPU -based experimental setup.
